@@ -20,7 +20,7 @@ Production-ready AI chatbot for businesses (restaurants, pharmacies, clinics, st
 ## Screenshots
 
 ### Main Workflow
-![Workflow]([WorkFlow.png](https://github.com/mostafa-elmniawy-ai/Business-N8N/blob/main/WorkFlow.png?raw=true))
+![Workflow]([Workflow.png](https://github.com/mostafa-elmniawy-ai/Business-N8N/blob/main/Workflow.png?raw=true))
 
 ### Supabase Database
 ![Supabase]([screenshots/Supabase.png](https://github.com/mostafaelmniawy-ai/Business-N8N/blob/main/Supabase.png))
